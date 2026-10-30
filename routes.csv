@@ -1,0 +1,7 @@
+
+from_id,to_id,voltage_kv,route_status
+S1,S2,400,Illustrative
+S2,S3,220,Documented regional link
+S3,S4,33,Needs verification
+S4,S5,11,Illustrative
+S5,S6,0.415,Illustrative
