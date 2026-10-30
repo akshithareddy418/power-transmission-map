@@ -1,0 +1,8 @@
+
+station_id,name,latitude,longitude,voltage_kv,type
+S1,NTPC Ramagundam,18.755,79.520,400,Generation
+S2,Gajwel Substation,17.850,78.630,400,Transmission
+S3,Siddipet Substation,18.100,78.850,220,Transmission
+S4,Gurralagondi Substation,18.050,78.800,33,Distribution
+S5,Local Distribution Transformer,18.045,78.795,0.415,Transformer
+S6,My Home Gurralagondi,18.040,78.790,0.230,Home
